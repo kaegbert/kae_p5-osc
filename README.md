@@ -8,8 +8,12 @@ adapted from [p5js-osc](https://github.com/genekogan/p5js-osc).
 
 Install [node](https://nodejs.org/)
 
-'npm install socket.io'
-'npm install node-osc'
+```javascript
+npm install socket.io
+```
+```javascript 
+npm install node-osc
+```
 
 Start node.
 
